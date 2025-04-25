@@ -1,6 +1,0 @@
-#requirements
-google-generativeai
-python-dotenv
-requests
-beautifulsoup4
-ipywidgets
